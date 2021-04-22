@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Client Details\Client Details\bin\Debug\Client Details.exe.config
+C:\Users\Administrator\source\repos\Client Details\Client Details\bin\Debug\Client Details.exe
+C:\Users\Administrator\source\repos\Client Details\Client Details\bin\Debug\Client Details.pdb
+C:\Users\Administrator\source\repos\Client Details\Client Details\obj\Debug\Client Details.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Client Details\Client Details\obj\Debug\Client_Details.Form1.resources
+C:\Users\Administrator\source\repos\Client Details\Client Details\obj\Debug\Client_Details.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Client Details\Client Details\obj\Debug\Client Details.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Client Details\Client Details\obj\Debug\Client Details.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Client Details\Client Details\obj\Debug\Client Details.exe
+C:\Users\Administrator\source\repos\Client Details\Client Details\obj\Debug\Client Details.pdb
